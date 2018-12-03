@@ -40,8 +40,4 @@ public class Lcs {
         }
         return result.toString();
     }
-
-    public static void main(String[] args) {
-        System.out.println(lcs("abc", "ac"));
-    }
 }
